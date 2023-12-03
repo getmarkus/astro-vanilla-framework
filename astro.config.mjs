@@ -4,5 +4,9 @@ import alpinejs from "@astrojs/alpinejs";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [alpinejs()]
+  integrations: [alpinejs()],
+  base: '/astro-vanilla-framework',
+  build: {
+    assets: 'astro'
+  }
 });
