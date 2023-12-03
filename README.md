@@ -19,7 +19,7 @@ npm create astro@latest -- --template getmarkus/astro-vanilla-framework
 ```
 
 * [Ubuntu Vanilla 4.0 announcement](https://ubuntu.com/blog/vanilla-4-0-release)
-* [Ubuntu Vanilla release notes](https://github.com/canonical/vanilla-framework/releases/)
+* [Ubuntu Vanilla Github release notes](https://github.com/canonical/vanilla-framework/releases/)
 
 ### Attribution
 * [logo](https://logoipsum.com/)
